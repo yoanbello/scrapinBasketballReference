@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "loser": "Houston",
+      "pointLoser": "102",
+      "pointWinner": "118",
+      "winner": "Boston"
+    },
+    {
+      "loser": "Indiana",
+      "pointLoser": "97",
+      "pointWinner": "114",
+      "winner": "Charlotte"
+    },
+    {
+      "loser": "Minnesota",
+      "pointLoser": "108",
+      "pointWinner": "120",
+      "winner": "Memphis"
+    },
+    {
+      "loser": "New Orleans",
+      "pointLoser": "103",
+      "pointWinner": "126",
+      "winner": "Atlanta"
+    },
+    {
+      "loser": "New York",
+      "pointLoser": "86",
+      "pointWinner": "99",
+      "winner": "Dallas"
+    },
+    {
+      "loser": "Oklahoma City",
+      "pointLoser": "103",
+      "pointWinner": "140",
+      "winner": "Phoenix"
+    },
+    {
+      "loser": "Portland",
+      "pointLoser": "109",
+      "pointWinner": "127",
+      "winner": "Milwaukee"
+    },
+    {
+      "loser": "Sacramento",
+      "pointLoser": "94",
+      "pointWinner": "115",
+      "winner": "LA Lakers"
+    },
+    {
+      "loser": "Golden State",
+      "pointLoser": "77",
+      "pointWinner": "130",
+      "winner": "Toronto"
+    },
+    {
+      "loser": "Chicago",
+      "pointLoser": "106",
+      "pointWinner": "113",
+      "winner": "Utah"
+    }
+  ],
+  "date": "NBA Games Played on April 2, 2021"
+}
